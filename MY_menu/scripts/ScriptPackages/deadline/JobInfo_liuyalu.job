@@ -1,0 +1,14 @@
+Name=CSX2_SD_1600_lgt_lgt_Bty_v004
+UserName=liuyalu
+Region=
+Frames=1001-1058
+Pool=3d_256g
+SecondaryPool=3d_all
+Priority=100
+Denylist=d39,d41,d44,d46,d48,d49,d50,d55,d58,d62,d66,d67,d69,d71,d73,d78,d80,d82,d83,d84,d87,d90,d91,d92,d100,d104,d114,d115,d150,d157,d160,d161,d162,d163,d164,d173,d183,d190,d195,d215,d218
+
+OverrideTaskExtraInfoNames=False
+
+Plugin=MayaBatch
+OutputDirectory0=W:\CSX2\renders\sd\1600\3d\lgt\lgt
+EventOptIns=

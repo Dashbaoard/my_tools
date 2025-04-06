@@ -1,0 +1,24 @@
+{
+string $RiggingHelperPath = `GET_HAHA_PATH` + "scripts/RiggingHelper/Tools/RiggingHelper.mel";
+HExecuteScript $RiggingHelperPath;
+}
+
+global proc float asMayaVersionAsFloat (){
+float $version=2012;
+if (`exists getApplicationVersionAsFloat`)
+	return `getApplicationVersionAsFloat`;
+string $versionString=`about -v`;
+string $tempString[];
+string $char;
+tokenize $versionString $tempString;
+for ($i=0;$i<size($tempString[0]);$i++)
+	{
+	$char=`substring $tempString[0] ($i+1) ($i+1)`;
+	if (!`gmatch $char "[0-9]"`)
+		return 2012;
+	}
+$version=$tempString[0];
+return $version;
+}
+
+

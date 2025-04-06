@@ -1,0 +1,16 @@
+SceneFile=x:/CSX2/SD/2440/3d/lgt/lgt/workFile/CSX2_SD_2440_lgt_lgt_Bty_v002.mb
+Version=2023
+Build=None
+ProjectPath=x:/CSX2/SD/2440/3d/lgt/lgt/workFile
+StrictErrorChecking=True
+UseLegacyRenderLayers=0
+RenderSetupIncludeLights=1
+LocalRendering=False
+MaxProcessors=0
+FrameNumberOffset=0
+OutputFilePath=W:\CSX2\renders\SD\2440\3d\lgt\lgt
+Renderer=File
+StartupScript=
+CommandLineOptions=
+UseOnlyCommandLineOptions=0
+IgnoreError211=False

@@ -1,0 +1,16 @@
+SceneFile=x:/CRPA/JSY/2817/3d/lgt/lgt/work/CRPA_JSY_2817_lgt_lgt_Bty_v006.mb
+Version=2023
+Build=None
+ProjectPath=x:/CRPA/JSY/2817/3d/lgt/lgt/work
+StrictErrorChecking=True
+UseLegacyRenderLayers=0
+RenderSetupIncludeLights=1
+LocalRendering=False
+MaxProcessors=0
+FrameNumberOffset=0
+OutputFilePath=W:\CRPA\renders\JSY\2817\3d\lgt
+Renderer=File
+StartupScript=
+CommandLineOptions=
+UseOnlyCommandLineOptions=0
+IgnoreError211=False

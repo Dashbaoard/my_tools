@@ -1,0 +1,16 @@
+SceneFile=X:/rs2/org/1960/3d/lgt/lgt/work/rs2_org_1960_lgt_lgt_Bty_v007_zl.mb
+Version=2023
+Build=None
+ProjectPath=X:/rs2/org/1960/3d/lgt/lgt/work
+StrictErrorChecking=True
+UseLegacyRenderLayers=0
+RenderSetupIncludeLights=1
+LocalRendering=False
+MaxProcessors=0
+FrameNumberOffset=0
+OutputFilePath=W:\rs2\renders\org\1960\3d\lgt
+Renderer=File
+StartupScript=
+CommandLineOptions=
+UseOnlyCommandLineOptions=0
+IgnoreError211=False

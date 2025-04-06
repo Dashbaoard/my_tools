@@ -1,0 +1,14 @@
+Name=CRPA_JSY_2817_lgt_lgt_Bty_v006
+UserName=zhangjidong
+Region=
+Frames=1001-1091
+Pool=3d_256g
+SecondaryPool=3d_all
+Priority=100
+Denylist=d16,d21,d22,d24,d25,d26,d27,d28,d29,d30,d32,d34,d35,d37,d38,d39,d40,d41,d42,d43,d44,d46,d47,d48,d49,d50,d54,d55,d56,d57,d58,d59,d61,d62,d63,d64,d65,d66,d67,d69,d70,d71,d72,d73,d74,d77,d78,d079,d80,d82,d83,d84,d85,d86,d87,d88,d89,d90,d91,d92,d93,d94,d95,d96,d98,d99,d101,d103,d105,d111,d113,d116,d150,d161,d162,d164,d170,d183,d184,d189
+
+OverrideTaskExtraInfoNames=False
+
+Plugin=MayaBatch
+OutputDirectory0=W:\CRPA\renders\JSY\2817\3d\lgt
+EventOptIns=

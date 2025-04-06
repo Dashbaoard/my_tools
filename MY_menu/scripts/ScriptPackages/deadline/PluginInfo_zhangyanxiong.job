@@ -1,0 +1,16 @@
+SceneFile=X:/myth/ls/0010/3d/lgt/lgt/work/myth_ls_0010_lgt_lgt_Bty_v007_cshadow.mb
+Version=2023
+Build=None
+ProjectPath=X:/myth/ls/0010/3d/lgt/lgt/work
+StrictErrorChecking=True
+UseLegacyRenderLayers=0
+RenderSetupIncludeLights=1
+LocalRendering=False
+MaxProcessors=0
+FrameNumberOffset=0
+OutputFilePath=W:\myth\renders\ls\0010\3d\lgt
+Renderer=File
+StartupScript=
+CommandLineOptions=
+UseOnlyCommandLineOptions=0
+IgnoreError211=False
